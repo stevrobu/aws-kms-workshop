@@ -26,6 +26,7 @@ Make the new directory and install the needed boto3 python library (if not prese
 
 ```
 $ sudo mkdir SampleWebApp
+$ sudo yum install python-pip
 $ sudo pip install boto3
 ```
 
